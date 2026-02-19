@@ -1,0 +1,71 @@
+Step1: 
+cd C:\Users\manda\OneDrive\Documents\AI Traffic - Jupyter
+
+Step2:
+streamlit run dash_app.py
+
+
+               TRAFFIC SIGNAL AI DASHBOARD - USER GUIDE
+
+PREREQUISITES:
+1. Install SUMO Version 1.25.0 (Required for simulation).
+2. Install Anaconda or Miniconda.
+3. Ensure "requirements.txt" is in this folder.
+
+
+STEP 1: INSTALL LIBRARIES (One-time Setup)
+
+1. Open "Anaconda Prompt".
+2. Type the following commands (press Enter after each line):
+
+   F:
+   cd F:\Your_Project_Folder_Name
+   pip install -r requirements.txt
+
+   (Note: Replace "Your_Project_Folder_Name" with the actual folder path)
+
+STEP 2: HOW TO RUN THE DASHBOARD
+
+1. Open "Anaconda Prompt".
+2. Type the following commands to navigate to the F drive folder:
+
+   F:
+   cd F:\Your_Project_Folder_Name
+
+3. Run the dashboard application:
+
+   streamlit run dash_app.py
+
+4. The dashboard will automatically open in your web browser
+
+PREREQUISITES:
+1. Install SUMO Version 1.25.0 (Required for simulation).
+2. Install Anaconda or Miniconda.
+3. Ensure "requirements.txt" is in this folder.
+
+STEP 1: INSTALL LIBRARIES (One-time Setup)
+
+1. Open "Anaconda Prompt".
+2. Type the following commands (press Enter after each line):
+
+   F:
+   cd F:\Your_Project_Folder_Name
+   pip install -r requirements.txt
+
+   (Note: Replace "Your_Project_Folder_Name" with the actual folder path)
+
+
+STEP 2: HOW TO RUN THE DASHBOARD
+
+1. Open "Anaconda Prompt".
+2. Type the following commands to navigate to the F drive folder:
+
+   F:
+   cd F:\Your_Project_Folder_Name
+
+3. Run the dashboard application:
+
+   streamlit run dash_app.py
+
+4. The dashboard will automatically open in your web browser.
+
