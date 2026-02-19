@@ -83,22 +83,7 @@ Throughput: Increased the total number of vehicles clearing the intersection per
 
 (See docs/Dissertation.pdf for full statistical analysis and graphs.)
 
- Repository Structure
-├── src/
-│   ├── agent.py           # Deep Q-Network (DQN) class structure
-│   ├── memory.py          # Experience Replay buffer implementation
-│   ├── training.py        # Main training loop
-│   └── utils.py           # Helper functions for state extraction
-├── sumo_network/
-│   ├── sheffield.net.xml  # The road network file (Sheffield)
-│   ├── sheffield.rou.xml  # Vehicle route definitions
-│   └── config.sumocfg     # Main SUMO configuration file
-├── models/
-│   └── dqn_final.pth      # Pre-trained PyTorch model weights
-├── docs/
-│   └── Dissertation.pdf   # Full project documentation
-├── requirements.txt       # Python dependencies
-└── README.md              # Project documentation
+ 
 Contact
 This project was developed by Mandar Satpute as part of an MSc dissertation at Sheffield Hallam University.
 
