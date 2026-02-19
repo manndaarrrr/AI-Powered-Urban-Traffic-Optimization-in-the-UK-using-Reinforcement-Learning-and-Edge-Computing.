@@ -3,21 +3,14 @@ Copyright (c) 2026 Mandar Satpute. All Rights Reserved.
 
 This project, including all source code, model weights, and documentation, is proprietary. It is published here strictly for educational and evaluation purposes (such as academic verification or portfolio review). You may NOT copy, modify, distribute, sub-license, or use this code, in whole or in part, for any commercial or non-commercial purpose without explicit written permission from the author.
 
-📖 Table of Contents
+Table of Contents
 Overview
-
 System Architecture
-
 Key Features
-
 Installation & Setup
-
 Usage
-
 Results & Performance
-
 Repository Structure
-
 Contact
 
  Overview
@@ -40,7 +33,7 @@ Action Execution: The chosen phase is applied to the traffic lights in the simul
 
 Reward Calculation: The agent receives feedback based on the reduction in cumulative waiting time and total travel time.
 
- Key Features
+Key Features
 Custom DQN Agent: Implemented a multi-layer neural network using PyTorch with Experience Replay and Target Networks to stabilize training.
 
 TraCI Integration: utilized the Traffic Control Interface (TraCI) Python API for granular, step-by-step control over the SUMO simulation.
