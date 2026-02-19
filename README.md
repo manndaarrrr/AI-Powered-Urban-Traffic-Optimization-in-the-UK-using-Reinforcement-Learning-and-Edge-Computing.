@@ -81,9 +81,6 @@ Queue Length: Successfully prevented gridlock scenarios where static timers fail
 
 Throughput: Increased the total number of vehicles clearing the intersection per hour.
 
-(See docs/Dissertation.pdf for full statistical analysis and graphs.)
-
- 
 Contact
 This project was developed by Mandar Satpute as part of an MSc dissertation at Sheffield Hallam University.
 
