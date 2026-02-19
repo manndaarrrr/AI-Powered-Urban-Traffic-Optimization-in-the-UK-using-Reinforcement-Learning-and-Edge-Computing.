@@ -1,0 +1,82 @@
+Loading net-file from 'C:\Users\manda\OneDrive\Documents\AI Traffic - Jupyter\my_network.net.xml' ... done (19ms).
+Loading route-files incrementally from 'C:\Users\manda\OneDrive\Documents\AI Traffic - Jupyter\my_routes.rou.xml'
+Loading done.
+Simulation version 1.25.0 started with time: 0.00.
+Warning: Teleporting vehicle 'trip28'; waited too long (wrong lane), lane='164073716#2_1', time=309.00.
+Warning: Teleporting vehicle 'trip5'; waited too long (jam), lane=':7671039164_0_1', time=319.00.
+Warning: Teleporting vehicle 'trip35'; waited too long (yield), lane='15833384#1_0', time=321.00.
+Warning: Vehicle 'trip5' ends teleporting on edge '324489280#0', time=324.00.
+Warning: Vehicle 'trip35' teleports beyond arrival edge '107445428#1', time=328.00.
+Warning: Teleporting vehicle 'trip51'; waited too long (jam), lane=':7671039164_0_0', time=330.00.
+Warning: Vehicle 'trip51' ends teleporting on edge '821520605', time=332.00.
+Warning: Vehicle 'trip28' teleports beyond arrival edge '-974103232#0', time=338.00.
+Warning: Teleporting vehicle 'trip76'; waited too long (jam), lane=':7671039164_0_0', time=635.00.
+Warning: Vehicle 'trip76' ends teleporting on edge '821520605', time=637.00.
+Warning: Teleporting vehicle 'trip125'; waited too long (jam), lane=':7671039164_0_1', time=663.00.
+Warning: Vehicle 'trip125' ends teleporting on edge '822595543', time=680.00.
+Warning: Teleporting vehicle 'trip167'; waited too long (yield), lane='15833384#1_0', time=846.00.
+Warning: Vehicle 'trip167' ends teleporting on edge '107445428#1', time=864.00.
+Warning: Teleporting vehicle 'trip114'; waited too long (jam), lane=':7671039164_0_0', time=940.00.
+Warning: Vehicle 'trip114' ends teleporting on edge '821520605', time=946.00.
+Warning: Teleporting vehicle 'trip191'; waited too long (yield), lane='15833384#1_0', time=1151.00.
+Warning: Vehicle 'trip191' ends teleporting on edge '107445428#0', time=1156.00.
+Warning: Teleporting vehicle 'trip224'; waited too long (wrong lane), lane='164073716#2_1', time=1299.00.
+Warning: Teleporting vehicle 'trip154'; waited too long (jam), lane=':7671039164_0_0', time=1301.00.
+Warning: Vehicle 'trip224' teleports beyond arrival edge '107445426#0', time=1302.00.
+Warning: Vehicle 'trip154' teleports beyond arrival edge '-974103232#1', time=1311.00.
+Warning: Teleporting vehicle 'trip171'; waited too long (jam), lane=':7671039164_0_0', time=1705.00.
+Warning: Teleporting vehicle 'trip1022'; waited too long (yield), lane='15833384#1_0', time=1710.00.
+Warning: Teleporting vehicle 'trip366'; waited too long (wrong lane), lane='164073716#2_1', time=1711.00.
+Warning: Teleporting vehicle 'trip647'; waited too long (jam), lane=':7671039164_0_1', time=1713.00.
+Warning: Vehicle 'trip171' teleports beyond arrival edge '107445426#0', time=1715.00.
+Warning: Vehicle 'trip366' teleports beyond arrival edge '107445426#1', time=1715.00.
+Warning: Vehicle 'trip647' teleports beyond arrival edge '324489280#0', time=1721.00.
+Warning: Vehicle 'trip1022' ends teleporting on edge '107445428#2', time=1729.00.
+Warning: Teleporting vehicle 'trip1671'; waited too long (jam), lane='974103233_0', time=1745.00.
+Warning: Vehicle 'trip1671' ends teleporting on edge '40349438#0', time=1769.00.
+Warning: Teleporting vehicle 'trip1092'; waited too long (yield), lane='15833384#1_0', time=2016.00.
+Warning: Vehicle 'trip1092' ends teleporting on edge '107445428#2', time=2035.00.
+Warning: Teleporting vehicle 'trip1016'; waited too long (jam), lane='164073716#0_0', time=2043.00.
+Warning: Vehicle 'trip1016' ends teleporting on edge '324489280#0', time=2047.00.
+Warning: Teleporting vehicle 'trip1191'; waited too long (jam), lane='822595542_0', time=2065.00.
+Warning: Vehicle 'trip1191' ends teleporting on edge '164073716#0', time=2065.00.
+Warning: Teleporting vehicle 'trip406'; waited too long (wrong lane), lane='164073716#2_1', time=2257.00.
+Warning: Vehicle 'trip406' teleports beyond arrival edge '107445426#0', time=2260.00.
+Warning: Teleporting vehicle 'trip1098'; waited too long (yield), lane='15833384#1_0', time=2320.00.
+Warning: Vehicle 'trip1098' teleports beyond arrival edge '107445428#1', time=2338.00.
+Warning: Teleporting vehicle 'trip794'; waited too long (jam), lane=':7671039164_0_1', time=2520.00.
+Warning: Vehicle 'trip794' ends teleporting on edge '324489280#0', time=2522.00.
+Warning: Teleporting vehicle 'trip414'; waited too long (wrong lane), lane='164073716#2_1', time=2558.00.
+Warning: Vehicle 'trip414' teleports beyond arrival edge '107445426#0', time=2561.00.
+Warning: Teleporting vehicle 'trip1159'; waited too long (yield), lane='15833384#1_0', time=2722.00.
+Warning: Vehicle 'trip1159' ends teleporting on edge '107445428#2', time=2741.00.
+Warning: Teleporting vehicle 'trip442'; waited too long (wrong lane), lane='164073716#2_1', time=2859.00.
+Warning: Vehicle 'trip442' teleports beyond arrival edge '315129218#0', time=2860.00.
+Warning: Teleporting vehicle 'trip1081'; waited too long (jam), lane=':7671039164_0_0', time=2861.00.
+Warning: Teleporting vehicle 'trip963'; waited too long (jam), lane='164073716#0_1', time=2863.00.
+Warning: Vehicle 'trip963' ends teleporting on edge '324489280#0', time=2866.00.
+Warning: Vehicle 'trip1081' ends teleporting on edge '821520605', time=2866.00.
+Warning: Teleporting vehicle 'trip844'; waited too long (jam), lane=':7671039164_0_1', time=2888.00.
+Warning: Vehicle 'trip844' ends teleporting on edge '324489280#0', time=2893.00.
+Warning: Teleporting vehicle 'trip1267'; waited too long (yield), lane='15833384#1_0', time=3069.00.
+Warning: Vehicle 'trip1267' ends teleporting on edge '107445428#2', time=3088.00.
+Warning: Teleporting vehicle 'trip1332'; waited too long (yield), lane='15833384#1_0', time=3435.00.
+Warning: Vehicle 'trip1332' ends teleporting on edge '107445428#2', time=3454.00.
+Simulation ended at time: 3600.00.
+Reason: The final simulation step has been reached.
+Performance:
+ Duration: 5.29s
+ Real time factor: 681.173
+ UPS: 87749.101230
+Vehicles:
+ Inserted: 5456 (Loaded: 13628)
+ Running: 129
+ Waiting: 8172
+ Teleports: 30 (Jam: 15, Yield: 9, Wrong Lane: 6)
+Statistics (avg of 5327):
+ RouteLength: 103.58
+ Speed: 5.33
+ Duration: 66.43
+ WaitingTime: 49.38
+ TimeLoss: 59.03
+ DepartDelay: 293.38
